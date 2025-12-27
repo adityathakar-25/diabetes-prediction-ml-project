@@ -44,7 +44,7 @@ This preprocessing is fully modular (in `preprocessing.py`) and reused across mo
 | Random Forest | sklearn | 0.7489 | 0.5432 | 0.6027 |
 | **XGBoost (tuned)** | xgboost | **0.7662** | **0.7777** | **0.70** |
 
-⚡ **Best performer:** Tuned XGBoost – and most importantly, it improved **recall**, which matters in medical prediction (catching more diabetic patients).
+**Best performer:** Tuned XGBoost – and most importantly, it improved **recall**, which matters in medical prediction (catching more diabetic patients).
 
 ---
 
